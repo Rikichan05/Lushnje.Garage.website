@@ -1,4 +1,3 @@
-# Lushnje.Garage.website
 <!DOCTYPE html>
 <html lang="uk">
 <head>
